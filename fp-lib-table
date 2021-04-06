@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "LED_WP934MD")(type "KiCad")(uri "${KIPRJMOD}/LED_WP934MD")(options "")(descr ""))
+  (lib (name "Icons")(type "KiCad")(uri "${KIPRJMOD}/Icons")(options "")(descr ""))
+)
